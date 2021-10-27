@@ -1,6 +1,8 @@
 # docker-express-postgres-crud
 
-<img src="https://user-images.githubusercontent.com/54473532/139149919-652f0713-f215-4878-9f6e-cab0cc8c3a8c.png" />
+![docker-express-postgres-crud](https://user-images.githubusercontent.com/54473532/139152478-5c48c83f-49f7-4e1f-a721-ff8393f32d92.gif)
+
+## a simple crud(create read update delete) app using express and postgres sql
 
 
-a simple crud(create read update delete) app using express and postgres sql
+
