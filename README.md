@@ -7,10 +7,10 @@ Its api first demo of taking input , getting the input,update input and finally 
 
 
 ## FILE FORMAT SUPPORTS
-1. Text ✅<br/>
-2. PDF ✅<br/>
-3. CSV ✅<br/>
-4. VIDEO(mp4) ✅<br/>
+1. Text ❎ <br/>
+2. PDF ❎ <br/>
+3. CSV ❎<br/>
+4. VIDEO(mp4) ❎<br/>
  
  ## How to test
  TO get any specific file input `http://localhost:3000/<FILE_FORMAT>` for example to test with video format try  `http://localhost:3000/video` and for text format try `http://localhost:3000/text`
