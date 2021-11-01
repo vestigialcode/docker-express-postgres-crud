@@ -45,6 +45,16 @@ $ docker-compose up
 
 After this the docker will run at port 3000. Congratultions you are all set. Now go to `http://localhost:3000` 
 
+## How to stop
+
+```
+docker-compose stop
+```
+to remove all the builds 
+```
+docker-compose rm -v
+```
+
 
 
 
